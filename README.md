@@ -3,7 +3,7 @@
 This repository contains a modified version of the official Unreal Engine Animation Sample Project. The original project provides a comprehensive set of over 500 AAA-quality animations and a fully functional character with animation Blueprints, designed to showcase Unreal Engine's Motion Matching toolset. [1]
 
 <p align="center">
-  <img src="https://placehold.co/800x450/555555/EEEEEE.png?text=Animation+System+Overview&font=roboto" alt="Animation System Overview" width="800">
+  <img src="https://github.com/user-attachments/assets/311e2035-9d58-4404-81b1-ea15140ef3d3" alt="Animation System Overview" width="800">
 </p>
 <p align="center">
   <em>Image: Overview of the animation system in action</em>
@@ -24,9 +24,9 @@ The Game Animation Sample Project from Epic Games is a free resource for develop
 *   **Advanced Animation Techniques:** Utilizes Choosers, Proxy Tables, and Pose Warping to manage animation selection and coverage. [1]
 *   **Authoring and Debugging Tools:** Includes tools like the Rewind Debugger. [1]
 
-<p align="center">
-  <img src="https://placehold.co/700x350/607D8B/FFFFFF.png?text=Motion+Matching+Showcase&font=montserrat" alt="Motion Matching Showcase" width="700">
-</p>
+
+https://github.com/user-attachments/assets/a595da73-ab0a-44a3-a89b-d776d0bf9ee9
+
 <p align="center">
   <em>Image: Motion Matching in Action</em>
 </p>
@@ -65,16 +65,6 @@ Here's a summary of the key changes implemented in this version:
 3.  **Key Areas to Explore:**
     *   Review the core Animation Blueprints and Motion Matching databases to understand the locomotion setup.
     *   The project is structured for easy migration of the `Content/[YourAnimationSystemFolder]` to your target project.
-
-<p align="center">
-  <a href="./videos/placeholder_walkthrough.mp4"> <!-- Or link to YouTube/Vimeo -->
-    <img src="https://placehold.co/640x360/2196F3/FFFFFF.png?text=Project+Overview%0A(Click+to+Play)&font=arial" alt="Project Overview Thumbnail" width="640">
-  </a>
-</p>
-<p align="center">
-  <em>Video: Project Overview and Migration Guide (click image to view if linked)</em>
-</p>
-*(You can change the link above to a YouTube/Vimeo URL or a local video file if you create one.)*
 
 ## Original Project Resources
 
